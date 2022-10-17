@@ -1,0 +1,185 @@
+{
+  "products": [
+    {
+      "id": "16f7a449-239e-420a-9e28-b05efe9cba8f",
+      "name": "Sauce - Salsa ahihi",
+      "description": "ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus",
+      "imageURL": "http://dummyimage.com/300x200.jpg/5fa2dd/ffffff"
+    },
+    {
+      "id": "ad6996ca-e54e-4397-a004-0438f959b98d",
+      "name": "Tomatoes",
+      "description": "lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui",
+      "imageURL": "http://dummyimage.com/300x126.jpg/5fa2dd/ffffff"
+    },
+    {
+      "id": "0ece4e86-8ffc-4c72-b0e3-888c27905c33",
+      "name": "Table Cloth 54x54 White",
+      "description": "commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede",
+      "imageURL": "http://dummyimage.com/300x145.jpg/dddddd/000000"
+    },
+    {
+      "id": "31648227-8178-40bf-bc34-d3e155036d3c",
+      "name": "Truffle Shells - White Chocolate",
+      "description": "diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit",
+      "imageURL": "http://dummyimage.com/300x152.jpg/cc0000/ffffff"
+    },
+    {
+      "id": "c563bcf8-5f51-482e-b83a-3d7c1f5a25ab",
+      "name": "Carbonated Water - Strawberry",
+      "description": "ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac",
+      "imageURL": "http://dummyimage.com/300x105.jpg/dddddd/000000"
+    },
+    {
+      "id": "325db7fd-4b76-4fe5-9fab-15b5867119ce",
+      "name": "Soup - Campbells Chili",
+      "description": "justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est",
+      "imageURL": "http://dummyimage.com/300x191.jpg/5fa2dd/ffffff"
+    },
+    {
+      "id": "6a9cfb47-f5f1-44ef-a300-fd0859db176a",
+      "name": "Coffee - Almond Amaretto",
+      "description": "id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi",
+      "imageURL": "http://dummyimage.com/300x189.jpg/ff4444/ffffff"
+    },
+    {
+      "id": "b1e2150f-0728-4247-901b-da570b38502f",
+      "name": "Bread - Dark Rye",
+      "description": "quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis",
+      "imageURL": "http://dummyimage.com/300x132.jpg/dddddd/000000"
+    },
+    {
+      "id": "8a3eeb70-e15b-4d6a-a726-f0ac9afb5a67",
+      "name": "Apple - Delicious, Red",
+      "description": "massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit",
+      "imageURL": "http://dummyimage.com/300x114.jpg/cc0000/ffffff"
+    },
+    {
+      "id": "164837dd-6afb-4d3a-b92f-3ca9f4f701ff",
+      "name": "Bread Fig And Almond",
+      "description": "lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien",
+      "imageURL": "http://dummyimage.com/300x107.jpg/ff4444/ffffff"
+    },
+    {
+      "id": "e0ab40a0-d3f8-40c2-94f5-2afd9dae999e",
+      "name": "Wine - Coteaux Du Tricastin Ac",
+      "description": "etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus",
+      "imageURL": "http://dummyimage.com/300x114.jpg/dddddd/000000"
+    },
+    {
+      "id": "617e00e4-1fbb-4c29-808a-4bfdac2f93c9",
+      "name": "Orange - Blood",
+      "description": "luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea",
+      "imageURL": "http://dummyimage.com/300x199.jpg/dddddd/000000"
+    },
+    {
+      "name": "erwe",
+      "price": null,
+      "id": "EqzO7jN"
+    },
+    {
+      "name": "erweasf",
+      "price": "adf",
+      "id": "jp8CYe5"
+    },
+    {
+      "name": "erweasf",
+      "price": "adf",
+      "id": "E7mfGdx"
+    },
+    {
+      "name": "fdffdf",
+      "price": "41555",
+      "id": "B_KPzqi"
+    },
+    {
+      "name": "fdffdf",
+      "price": "41555",
+      "id": "wQWhWwm"
+    },
+    {
+      "name": "fdffdf",
+      "price": "41555",
+      "id": "pB30MQv"
+    },
+    {
+      "name": "fdffdf",
+      "price": "41555",
+      "id": "Au~J4Bs"
+    },
+    {
+      "name": "fdffdf",
+      "price": "41555",
+      "id": "nkbFXDl"
+    },
+    {
+      "name": "fdffdf",
+      "price": "41555",
+      "id": "YJxmMOG"
+    },
+    {
+      "name": "fdffdf",
+      "price": "41555",
+      "id": "txDUHtY"
+    },
+    {
+      "name": "fdffdf",
+      "price": "41555",
+      "id": "GdWGqws"
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": "wH9d_8E"
+    },
+    {
+      "name": "kkj",
+      "price": "98",
+      "id": "sODm9Fh"
+    },
+    {
+      "name": "kkj",
+      "price": "98",
+      "id": "sIaJNKZ"
+    },
+    {
+      "name": "kkj",
+      "price": "98",
+      "id": "DAjsPb9"
+    },
+    {
+      "name": "kkj",
+      "price": "98",
+      "id": "raXJwnz"
+    },
+    {
+      "email": "Admin@gmail.com",
+      "password": "123456",
+      "createAt": 1659232769450,
+      "updateAt": 1659232769450,
+      "id": "7JeyHSO"
+    }
+  ],
+  "users": [
+    {
+      "email": "Admin@gmail.com",
+      "password": "$2a$10$PLMglNiJf6wUxvbM.9a/yOaNl8nlqIb3bGeIJ9XuP95UoA7nNIitm",
+      "id": 1
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$m6sClqwNRsdP0G92U4Io9uNSpN5oHuRgi0AsogGkMgYPVqivD89mO",
+      "id": 2
+    },
+    {
+      "email": "123dmin@gmail.com",
+      "password": "$2a$10$oEJgm1FSbK/K9Zly9G6soehtBDMboOc7fNazBSX3b5cHOI2irkpo.",
+      "id": 3
+    },
+    {
+      "email": "demo@gmail.com",
+      "password": "$2a$10$z.jDOuYtQNwkzWWQvi9TIOOEvSqVdgCnS8HZMIGjKVZ7fSfgkRiZS",
+      "id": 4
+    }
+  ]
+}
